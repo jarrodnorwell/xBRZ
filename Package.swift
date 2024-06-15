@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "XBRZ",
+    name: "xBRZ",
     products: [
-        .library(name: "XBRZ", targets: ["XBRZ"])
+        .library(name: "xBRZ", targets: ["xBRZ"])
     ],
     targets: [
-        .target(name: "XBRZ", publicHeadersPath: "include")
+        .target(name: "xBRZ", publicHeadersPath: "include")
     ],
     cLanguageStandard: .c2x,
     cxxLanguageStandard: .cxx2b
