@@ -1,1 +1,1 @@
-# XBRZ-SPM
+# xBRZ
